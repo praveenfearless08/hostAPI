@@ -1,0 +1,113 @@
+[
+    {
+        "name": "iphone",
+        "price": "154",
+        "featured": true,
+        "company": "apple" 
+
+    },{
+        "name": "iphone10",
+        "price": "1201",
+        "featured": true,
+        "company": "vivo" 
+
+    },
+    {
+        "name": "watch",
+        "price": "104",
+        "company": "samsung" 
+
+    },
+    {
+        "name": "laptop",
+        "price": "84",
+        "company": "dell" 
+
+    },
+    {
+        "name": "iphone",
+        "price": "154",
+        "company": "mi" 
+
+    },
+    {
+        "name": "iphone",
+        "price": "154",
+        "company": "mi" 
+
+    },
+    {
+        "name": "iphone",
+        "price": "154",
+        "company": "apple" 
+
+    },
+    {
+        "name": "iphone",
+        "price": "154",
+        "company": "apple" 
+
+    },
+    {
+        "name": "alpha 1",
+        "featured": true,
+        "price": "154",
+        "company": "dell" 
+
+    },
+    {
+        "name": "macbook air",
+        "featured": true,
+        "price": "1000",
+        "company": "apple" 
+
+    },
+    {
+        "name": "macbook pro",
+        "featured": true,
+        "price": "1584",
+        "company": "apple" 
+
+    },
+    {
+        "name": "iphone14",
+        "featured": true,
+        "price": "1854",
+        "company": "vivo" 
+
+    },
+    {
+        "name": "iphone14",
+        "featured": true,
+        "price": "1594",
+        "company": "vivo" 
+
+    },
+    {
+        "name": "iphone14",
+        "featured": true,
+        "price": "1504",
+        "company": "apple" 
+
+    },
+    {
+    
+        "name": "os1",
+        "price": "114",
+        "company": "vivo" 
+    },
+    {
+      
+        "name": "x1",
+        "price": "104",
+        "company": "samsung" 
+
+    },
+    {
+       
+        "name": "a2",
+        "price": "104",
+        "company": "samsung" 
+
+    }
+]
